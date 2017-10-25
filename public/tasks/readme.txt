@@ -1,0 +1,1 @@
+Take note of any IOC, if it doesnt submit as a flag I'll consider giving bonus points based on what you find.
